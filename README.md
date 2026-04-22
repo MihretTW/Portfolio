@@ -45,7 +45,7 @@ It showcases my skills, projects, and basic contact information.
 
 ## Contact
 
-* Email:mercytadesse40@gmail.com
+* Email: mercytadesse40@gmail.com
 * GitHub: https://github.com/MihretTW
 
 ---
