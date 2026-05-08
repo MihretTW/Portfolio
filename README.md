@@ -52,7 +52,3 @@ It showcases my skills, projects, and basic contact information.
 * GitHub: https://github.com/MihretTW
 
 ---
-
-## Notes
-
-This is a beginner-friendly portfolio project and will be improved over time with more features and better design.
