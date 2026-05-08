@@ -67,7 +67,7 @@ nav a:hover::after {
   background: linear-gradient(135deg, #3b82f6, #9333ea);
   border: none;
   padding: 6px 12px;
-  color: white;
+  color: White;
   cursor: pointer;
   border-radius: 20px;
 }
@@ -119,7 +119,7 @@ h2::after {
 #about p {
   line-height: 1.6;
   font-size: 18px;
-  color: White;
+  color: #374151;
 }
 
 /* Skills */
@@ -175,7 +175,7 @@ h2::after {
 /* DARK MODE */
 .dark {
   background: linear-gradient(135deg, #020617, #0f172a);
-  color: #e5e7eb;
+  color: White;
 }
 
 .dark nav {
